@@ -1,5 +1,5 @@
 <!-- To appear on profile -->
-<img align='right' src='https://raw.githubusercontent.com/jordyjwilliams/jordyjwilliams/master/assets/speaker.gif' width='80"'>
+<img align='right' src='https://raw.githubusercontent.com/jordyjwilliams/jordyjwilliams/master/assets/speaker.gif' width='100"'>
 
 # Jordy Williams
 ## 🔉 Audio/Acoustical Engineer 🔉
