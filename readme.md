@@ -2,7 +2,8 @@
 <img align='right' src='https://raw.githubusercontent.com/jordyjwilliams/jordyjwilliams/master/assets/speaker.gif' width='100"'>
 
 # Jordy Williams
-## 🔉 Audio/Acoustical Engineer 🔉
+## 🧑‍💻 Senior Software Engineer 🧑‍💻
+## 🔉 Audio/Acoustical Research Engineer 🔉
 ## 🐍 Python Developer 🐍
 
 * [Portfolio Website](https://jordyjwilliams.github.io)
