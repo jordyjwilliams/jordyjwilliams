@@ -1,5 +1,5 @@
 <!-- To appear on profile -->
-<img align='right' src='https://raw.githubusercontent.com/jordyjwilliams/jordyjwilliams/master/assets/speaker.gif' width='100"'>
+<img align='right' src='https://raw.githubusercontent.com/jordyjwilliams/jordyjwilliams/main/assets/speaker.gif' width='100"'>
 
 # Jordy Williams
 ## 🧑‍💻 Senior Software Engineer 🧑‍💻
